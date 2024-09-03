@@ -20,6 +20,7 @@ a {
 }
 
 .gradient__text {
+    background: linear-gradient(to right, #ff8a00, #da1b60);
     background-color: var(--gradient-text);
     background-clip: text;
     -webkit-background-clip: text;
